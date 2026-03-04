@@ -1,0 +1,17 @@
+body
+{text-align: center;
+     background-size: 1000px 1000px ;
+    background-position: center;
+  background-color: blueviolet;
+background: linear-gradient(to bottom, #C10000 30%, #000000 50%);
+    height: 100vh;
+    margin: 0
+}
+h1{font-size: 48px;
+margin-top: 80px;}
+p{color: turquoise;}
+h1{color: violet;}
+li{color: yellow;}
+p{font-size: large;}
+li{font-style: italic;}
+p{font-style: arial;}
